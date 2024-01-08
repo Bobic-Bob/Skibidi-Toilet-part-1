@@ -1,0 +1,80 @@
+{
+    "idSave": 194,
+    "isFirstSession": false,
+    "language": "ru",
+    "promptDone": false,
+    "Music": true,
+    "Sound": true,
+    "ClickPower": 139,
+    "ClickMultiplier": 2,
+    "AutoClickPower": 8,
+    "AutoClickSpeed": 1,
+    "AutoClickMultiplier": 1,
+    "TotalClickMultiplier": 186,
+    "TotalAutoClickMultiplier": 1,
+    "Toilets": 143,
+    "Heads": 13,
+    "UpgradeType": [
+        4,
+        2,
+        1,
+        6,
+        0,
+        5
+    ],
+    "CurrentParameter": [
+        1,
+        8,
+        2,
+        1,
+        139,
+        186
+    ],
+    "ToiletsCost": [
+        111,
+        14,
+        1000,
+        1,
+        139,
+        1
+    ],
+    "HeadsCost": [
+        13,
+        8,
+        100,
+        1,
+        0,
+        1
+    ],
+    "CurrentUpgradeLevel": [
+        31,
+        7,
+        1,
+        1,
+        32,
+        5
+    ],
+    "KilledEnemies": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+    ]
+}
